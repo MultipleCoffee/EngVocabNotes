@@ -1,0 +1,204 @@
+{
+    "vocabulary": [
+      {
+        "word": "Substantial",
+        "pronunciation": "/səbˈstænʃəl/",
+        "meaning": "かなりの、実質的な",
+        "example": "This building is of substantial size. (この建築物はかなりの大きさだ)"
+      },
+      {
+        "word": "Intentionally",
+        "pronunciation": "/ɪnˈtɛnʃənəli/",
+        "meaning": "意図的に、わざと",
+        "example": "He intentionally left the door open. (彼は意図的にドアを開けたままにした)"
+      },
+      {
+        "word": "Enumerate",
+        "pronunciation": "/ɪˈnjuːməreɪt/",
+        "meaning": "列挙する、一つ一つ乗り込む",
+        "example": "The report enumerates several key points. (その報告書はいくつかの重要な点を列挙している)"
+      },
+      {
+        "word": "Conceptually speaking",
+        "pronunciation": "/kənˈsɛptʃuəli ˈspiːkɪŋ/",
+        "meaning": "概念的に言うと、概念上は",
+        "example": "Conceptually speaking, the project aims to streamline communication. (概念的に言うと、このプロジェクトはコミュニケーションの効率化を目指している)"
+      },
+      {
+        "word": "Rudimentary",
+        "pronunciation": "/ˌruːdɪˈmɛntri/",
+        "meaning": "初歩的な、基本的な",
+        "example": "His understanding of the subject is rudimentary. (彼のその分野に関する理解は初歩的だ)"
+      },
+      {
+        "word": "Foil",
+        "pronunciation": "/fɔɪl/",
+        "meaning": "妨げる、阻止する",
+        "example": "The police managed to foil the robbery. (警察は強盗を阻止することに成功した)"
+      },
+      {
+        "word": "Per se",
+        "pronunciation": "/pɜːr ˈseɪ/",
+        "meaning": "それ自体、本質的に",
+        "example": "The idea isn't bad per se, but it needs more work. (そのアイデア自体は悪くないが、もっと改良が必要だ)"
+      },
+      {
+        "word": "As-is",
+        "pronunciation": "/æz ˈɪz/",
+        "meaning": "現状のまま、そのまま",
+        "example": "The car is sold as-is, with no warranty. (その車は現状のままで、保証なしで売られている)"
+      },
+      {
+        "word": "Foothold",
+        "pronunciation": "/ˈfʊthəʊld/",
+        "meaning": "足がかり、拠点",
+        "example": "The company gained a foothold in the European market. (その会社はヨーロッパ市場で足がかりを得た)"
+      },
+      {
+        "word": "Excerpt",
+        "pronunciation": "/ˈɛksɜːrpt/",
+        "meaning": "抜粋、引用",
+        "example": "She read an excerpt from her favorite book. (彼女はお気に入りの本から抜粋を読んだ)"
+      },
+      {
+        "word": "Whatsoever",
+        "pronunciation": "/ˌwɒtsəʊˈɛvər/",
+        "meaning": "全く、少しでも",
+        "example": "There is no evidence whatsoever. (全く証拠はない)"
+      },
+      {
+        "word": "Write-up",
+        "pronunciation": "/ˈraɪtʌp/",
+        "meaning": "報告書、記事、レポート",
+        "example": "She finished the write-up for the meeting. (彼女は会議のための報告書を書き終えた)"
+      }
+    ],
+    "quiz": {
+      "meaning_questions": [
+        {
+          "question": "Substantial の意味は次のうちどれですか？",
+          "options": [
+            "a) 初歩的な",
+            "b) 意図的な",
+            "c) かなりの"
+          ]
+        },
+        {
+          "question": "Intentionally の意味は次のうちどれですか？",
+          "options": [
+            "a) 列挙する",
+            "b) 意図的に",
+            "c) 概念的に"
+          ]
+        },
+        {
+          "question": "Rudimentary の意味は次のうちどれですか？",
+          "options": [
+            "a) 初歩的な",
+            "b) 重要な",
+            "c) 列挙する"
+          ]
+        },
+        {
+          "question": "Foil の意味は次のうちどれですか？",
+          "options": [
+            "a) 列挙する",
+            "b) 妨げる",
+            "c) 概念的に"
+          ]
+        },
+        {
+          "question": "Per se の意味は次のうちどれですか？",
+          "options": [
+            "a) 初歩的な",
+            "b) それ自体",
+            "c) 列挙する"
+          ]
+        },
+        {
+          "question": "As-is の意味は次のうちどれですか？",
+          "options": [
+            "a) 初歩的な",
+            "b) 現状のまま",
+            "c) 列挙する"
+          ]
+        },
+        {
+          "question": "Foothold の意味は次のうちどれですか？",
+          "options": [
+            "a) 足がかり",
+            "b) 妨げる",
+            "c) 概念的に"
+          ]
+        },
+        {
+          "question": "Excerpt の意味は次のうちどれですか？",
+          "options": [
+            "a) 抜粋",
+            "b) 妨げる",
+            "c) 列挙する"
+          ]
+        },
+        {
+          "question": "Whatsoever の意味は次のうちどれですか？",
+          "options": [
+            "a) 少しでも",
+            "b) 現状のまま",
+            "c) 列挙する"
+          ]
+        },
+        {
+          "question": "Write-up の意味は次のうちどれですか？",
+          "options": [
+            "a) 足がかり",
+            "b) 記事",
+            "c) 列挙する"
+          ]
+        }
+      ],
+      "fill_in_the_blank": [
+        {
+          "sentence": "He _______ left the door open.",
+          "options": ["intentionally", "conceptually", "rudimentary"]
+        },
+        {
+          "sentence": "The project is still in a _______ stage.",
+          "options": ["substantial", "rudimentary", "enumerate"]
+        },
+        {
+          "sentence": "_______ speaking, the new system aims to improve efficiency.",
+          "options": ["Substantial", "Rudimentary", "Conceptually"]
+        },
+        {
+          "sentence": "The police managed to _______ the robbery.",
+          "options": ["enumerate", "foil", "substantial"]
+        },
+        {
+          "sentence": "The idea isn't bad _______; it just needs more work.",
+          "options": ["enumerate", "per se", "foil"]
+        },
+        {
+          "sentence": "The item is sold _______ with no returns accepted.",
+          "options": ["per se", "foil", "as-is"]
+        },
+        {
+          "sentence": "The company gained a _______ in the European market.",
+          "options": ["foothold", "enumerate", "intentionally"]
+        },
+        {
+          "sentence": "She read an _______ from her favorite book.",
+          "options": ["excerpt", "foil", "rudimentary"]
+        },
+        {
+          "sentence": "There is no evidence _______ to support the claim.",
+          "options": ["excerpt", "whatsoever", "as-is"]
+        },
+        {
+          "sentence": "She finished the _______ for the meeting.",
+          "options": ["write-up", "rudimentary", "foil"]
+        }
+      ]
+    }
+  }
+  
+  
